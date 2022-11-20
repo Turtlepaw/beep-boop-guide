@@ -1,11 +1,15 @@
 # Introduction
 
-::: warning
-Gamecord is still currently in the works and is not on NPM right now!
+Welcome to Beep Boop's documentation! If you're new to Beep Boop, we reccomend that you continue reading our guide.
+
+## Getting Started
+First off, if you haven't already done this, [invite Beep Boop](https://bop.trtle.xyz/add). Select your server from the drop-down menu and click continue and authorize!
+
+![OAuth2 Screen](./media/OAuthScreen.png)
+
+::: tip
+You aren't sharing any sensitive information with us, you're only adding the bot to a server.
 :::
 
-Welcome to the Gamecord.js docs/guide! Learn how to use each feature in Gamecord.js. If you like Gamecord.js please give it a [⭐ (star)](https://github.com/Cordbots/gamecord)!
-
-*Credit to [Discord.js](https://discord.js.org) for creating this beautiful guide website! ([Github](https://github.com/discordjs/guide))*
-
-[![Discord Server](http://invidget.switchblade.xyz/834199640702320650)](/discord)
+## Configuring your server
+You're now ready to [configure your server!](/server/basics)
