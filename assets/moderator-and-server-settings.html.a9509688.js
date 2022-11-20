@@ -1,0 +1,1 @@
+import{o as r,c as e,a,d as t}from"./app.468a7b75.js";const s={},d={id:"moderator-and-server-settings",tabindex:"-1"},n=[a("a",{class:"header-anchor",href:"#moderator-and-server-settings","aria-hidden":"true"},"#",-1),t(" Moderator and Server Settings")];s.render=function(a,t){return r(),e("h1",d,n)};export{s as default};

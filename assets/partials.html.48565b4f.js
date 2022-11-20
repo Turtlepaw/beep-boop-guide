@@ -1,0 +1,1 @@
+const t={key:"v-35285d49",path:"/popular-topics/partials.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"popular-topics/partials.md",git:{updatedTime:1668904504e3}};export{t as data};

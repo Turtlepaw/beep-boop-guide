@@ -1,0 +1,1 @@
+const e={key:"v-42b0fc24",path:"/sharding/extended.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"sharding/extended.md",git:{updatedTime:1668904504e3}};export{e as data};

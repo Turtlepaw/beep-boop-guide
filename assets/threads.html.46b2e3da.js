@@ -1,0 +1,1 @@
+const e={key:"v-7708764e",path:"/popular-topics/threads.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"popular-topics/threads.md",git:{updatedTime:1668904504e3}};export{e as data};

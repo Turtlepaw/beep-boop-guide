@@ -1,0 +1,1 @@
+import{o as a,c as e,a as r,d as s}from"./app.468a7b75.js";const p={},d={id:"appeals",tabindex:"-1"},n=[r("a",{class:"header-anchor",href:"#appeals","aria-hidden":"true"},"#",-1),s(" Appeals")];p.render=function(r,s){return a(),e("h1",d,n)};export{p as default};

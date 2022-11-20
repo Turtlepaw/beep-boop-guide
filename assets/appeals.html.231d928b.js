@@ -1,0 +1,1 @@
+const e={key:"v-b42ba370",path:"/server/appeals.html",title:"Appeals",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"server/appeals.md",git:{updatedTime:1668904504e3}};export{e as data};

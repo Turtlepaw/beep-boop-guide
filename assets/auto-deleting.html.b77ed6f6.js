@@ -1,0 +1,1 @@
+const e={key:"v-4f2b87f4",path:"/server/auto-deleting.html",title:"Auto Deleting",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"server/auto-deleting.md",git:{updatedTime:1668904504e3}};export{e as data};
